@@ -117,7 +117,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   }
 
   return newRequire;
-})({"../node_modules/parcel-bundler/src/builtins/bundle-url.js":[function(require,module,exports) {
+})({"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/bundle-url.js":[function(require,module,exports) {
 var bundleURL = null;
 
 function getBundleURLCached() {
@@ -149,7 +149,7 @@ function getBaseURL(url) {
 
 exports.getBundleURL = getBundleURLCached;
 exports.getBaseURL = getBaseURL;
-},{}],"../node_modules/parcel-bundler/src/builtins/css-loader.js":[function(require,module,exports) {
+},{}],"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/css-loader.js":[function(require,module,exports) {
 var bundle = require('./bundle-url');
 
 function updateLink(link) {
@@ -184,18 +184,18 @@ function reloadCSS() {
 }
 
 module.exports = reloadCSS;
-},{"./bundle-url":"../node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css":[function(require,module,exports) {
+},{"./bundle-url":"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/bundle-url.js"}],"../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css":[function(require,module,exports) {
 
         var reloadCSS = require('_css_loader');
         module.hot.dispose(reloadCSS);
         module.hot.accept(reloadCSS);
       
-},{"./..\\fonts\\la-brands-400.eot":[["la-brands-400.778d4a47.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot"],"./..\\fonts\\la-brands-400.woff2":[["la-brands-400.dbace14b.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2"],"./..\\fonts\\la-brands-400.woff":[["la-brands-400.1b3b43ba.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff"],"./..\\fonts\\la-brands-400.ttf":[["la-brands-400.2b17e2c0.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf"],"./..\\fonts\\la-brands-400.svg":[["la-brands-400.4f8bf1e5.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg"],"./..\\fonts\\la-regular-400.eot":[["la-regular-400.6063b968.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot"],"./..\\fonts\\la-regular-400.woff2":[["la-regular-400.d229cd26.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2"],"./..\\fonts\\la-regular-400.woff":[["la-regular-400.579678f3.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff"],"./..\\fonts\\la-regular-400.ttf":[["la-regular-400.ade78a6f.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf"],"./..\\fonts\\la-regular-400.svg":[["la-regular-400.d5e6abf6.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg"],"./..\\fonts\\la-solid-900.eot":[["la-solid-900.38e5ca64.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot"],"./..\\fonts\\la-solid-900.woff2":[["la-solid-900.cc8b65e1.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"],"./..\\fonts\\la-solid-900.woff":[["la-solid-900.6cae1681.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff"],"./..\\fonts\\la-solid-900.ttf":[["la-solid-900.b6085392.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf"],"./..\\fonts\\la-solid-900.svg":[["la-solid-900.d822935d.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"assets/scss/styles.scss":[function(require,module,exports) {
+},{"./..\\fonts\\la-brands-400.eot":[["la-brands-400.778d4a47.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.eot"],"./..\\fonts\\la-brands-400.woff2":[["la-brands-400.dbace14b.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff2"],"./..\\fonts\\la-brands-400.woff":[["la-brands-400.1b3b43ba.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.woff"],"./..\\fonts\\la-brands-400.ttf":[["la-brands-400.2b17e2c0.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.ttf"],"./..\\fonts\\la-brands-400.svg":[["la-brands-400.4f8bf1e5.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-brands-400.svg"],"./..\\fonts\\la-regular-400.eot":[["la-regular-400.6063b968.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.eot"],"./..\\fonts\\la-regular-400.woff2":[["la-regular-400.d229cd26.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff2"],"./..\\fonts\\la-regular-400.woff":[["la-regular-400.579678f3.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.woff"],"./..\\fonts\\la-regular-400.ttf":[["la-regular-400.ade78a6f.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.ttf"],"./..\\fonts\\la-regular-400.svg":[["la-regular-400.d5e6abf6.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-regular-400.svg"],"./..\\fonts\\la-solid-900.eot":[["la-solid-900.38e5ca64.eot","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.eot"],"./..\\fonts\\la-solid-900.woff2":[["la-solid-900.cc8b65e1.woff2","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff2"],"./..\\fonts\\la-solid-900.woff":[["la-solid-900.6cae1681.woff","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.woff"],"./..\\fonts\\la-solid-900.ttf":[["la-solid-900.b6085392.ttf","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.ttf"],"./..\\fonts\\la-solid-900.svg":[["la-solid-900.d822935d.svg","../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg"],"../node_modules/line-awesome/dist/line-awesome/fonts/la-solid-900.svg"],"_css_loader":"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"assets/scss/styles.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"../../../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css":"../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css","_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"../../../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css":"../node_modules/line-awesome/dist/line-awesome/css/line-awesome.min.css","_css_loader":"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -223,7 +223,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59585" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59923" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -399,5 +399,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../node_modules/parcel-bundler/src/builtins/hmr-runtime.js"], null)
-//# sourceMappingURL=/styles.e4690120.js.map
+},{}]},{},["C:/Users/CHUNG/AppData/Local/Yarn/Data/global/node_modules/parcel-bundler/src/builtins/hmr-runtime.js"], null)
+//# sourceMappingURL=/neumorphism-login-ui/styles.e4690120.js.map
