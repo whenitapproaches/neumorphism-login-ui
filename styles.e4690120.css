@@ -10249,9 +10249,8 @@ input.input:focus {
   border-radius: 999px;
   -webkit-transition: 0.4s;
   transition: 0.4s;
-  background: var(--background-color);
-  border-radius: 999pxpx;
-  box-shadow: 2px 2px 4px var(--box-shadow-bottom-corner), -2px -2px 4px var(--box-shadow-top-corner);
+  background: linear-gradient(145deg, #d5d5d5, #fefefe);
+  box-shadow: 2px 2px 4px var(--box-shadow-bottom-corner);
 }
 
 input:checked + .slider {
